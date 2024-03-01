@@ -15,7 +15,7 @@ Dada la imagen `$I$`, $ntimes n$ tamaño Gaussian Kernel `$G_{ntimes n}$`,
 
 ## Enlaces de implementación de código
 
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/feature_detectors/harris.py)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/digital_image_processing/feature_detectors/harris.py)
 
 ## Referencia
 

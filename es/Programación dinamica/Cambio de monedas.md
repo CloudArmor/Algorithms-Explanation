@@ -60,12 +60,12 @@ Así que la respuesta final es **8**. 8 maneras de hacer un cambio de 7 centavos
 
 #### Enlace de implementación de código
 
-* [Python](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/coin_change.py)
-* [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/dynamic_programming/coin_change.cpp)
-* [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/dynamicprogramming/CoinChange.java)
-* [Dart](https://github.com/TheAlgorithms/Dart/blob/master/dynamic_programming/coin_change.dart)
-* [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/dynamic_programming/coin_change.rb)
-* [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/DynamicProgramming/CoinChange.scala)
+* [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/dynamic_programming/coin_change.py)
+* [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/dynamic_programming/coin_change.cpp)
+* [Java](https://github.com/CloudArmor/Java/blob/master/src/main/java/com/thealgorithms/dynamicprogramming/CoinChange.java)
+* [Dart](https://github.com/CloudArmor/Dart/blob/master/dynamic_programming/coin_change.dart)
+* [Ruby](https://github.com/CloudArmor/Ruby/blob/master/dynamic_programming/coin_change.rb)
+* [Scala](https://github.com/CloudArmor/Scala/blob/master/src/main/scala/DynamicProgramming/CoinChange.scala)
 
 #### Vídeo de explicación
 

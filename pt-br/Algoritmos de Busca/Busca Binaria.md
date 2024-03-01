@@ -42,11 +42,11 @@ alvo = 9
 
 #### Links de implementação de código
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/BinarySearch.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Search/Binary%20Search.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/searches/binary_search.py)
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Search/BinarySearcher.cs)
-- [C](https://github.com/TheAlgorithms/C/blob/master/searching/Binary_Search.c)
+- [Java](https://github.com/CloudArmor/Java/blob/master/src/main/java/com/thealgorithms/searches/BinarySearch.java)
+- [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/Search/Binary%20Search.cpp)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/searches/binary_search.py)
+- [C-Sharp](https://github.com/CloudArmor/C-Sharp/blob/master/Algorithms/Search/BinarySearcher.cs)
+- [C](https://github.com/CloudArmor/C/blob/master/searching/Binary_Search.c)
 
 #### Explicação em vídeo
 

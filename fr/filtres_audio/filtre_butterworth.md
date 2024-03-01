@@ -30,4 +30,4 @@ $$\tag{avec $p_k=\omega_ce^{\frac{j(2k+n-1)\pi}{2n}}$}H(p) = \frac{G_0}{\prod^n_
 
 ## Implementation
 
-* [Python](https://github.com/TheAlgorithms/Python/audio_filters/butterworth_filter.py)
+* [Python](https://github.com/CloudArmor/PyAlgorithms/audio_filters/butterworth_filter.py)

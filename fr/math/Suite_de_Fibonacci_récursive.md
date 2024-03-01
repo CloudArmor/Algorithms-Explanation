@@ -44,4 +44,4 @@ On a donc $F(4) = 3$
 
 ## Implémentation
 
-* [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/fibonacci_sequence_recursion.py)
+* [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/maths/fibonacci_sequence_recursion.py)

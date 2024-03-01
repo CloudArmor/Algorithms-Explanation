@@ -35,10 +35,10 @@ Linear Search should return -1 as 6 is not present in the array
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/LinearSearch.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/search/linear_search.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/searches/linear_search.py)
-- [C](https://github.com/TheAlgorithms/C/blob/master/searching/linear_search.c)
+- [Java](https://github.com/CloudArmor/Java/blob/master/src/main/java/com/thealgorithms/searches/LinearSearch.java)
+- [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/search/linear_search.cpp)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/searches/linear_search.py)
+- [C](https://github.com/CloudArmor/C/blob/master/searching/linear_search.c)
 
 #### Video Explanation
 

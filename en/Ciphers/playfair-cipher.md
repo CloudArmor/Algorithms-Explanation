@@ -119,7 +119,7 @@ So we will get the encrypted text as **instrumentsx**.
 
 ## Implementations
 
-- [**Python**](https://github.com/TheAlgorithms/Python/blob/master/ciphers/playfair_cipher.py)
+- [**Python**](https://github.com/CloudArmor/PyAlgorithms/blob/master/ciphers/playfair_cipher.py)
 
 ## Video Explanation
 

@@ -43,10 +43,10 @@ Let's say k = 4. ie. We have to find 4th smallest element.
 
 ### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/QuickSelect.java)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/searches/quick_select.py)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/search/selectk.go)
-- [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Data-Structures/Array/QuickSelect.js)
+- [Java](https://github.com/CloudArmor/Java/blob/master/src/main/java/com/thealgorithms/searches/QuickSelect.java)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/searches/quick_select.py)
+- [Go](https://github.com/CloudArmor/Go/blob/master/search/selectk.go)
+- [JavaScript](https://github.com/CloudArmor/JavaScript/blob/master/Data-Structures/Array/QuickSelect.js)
 
 ### Helpful Video Links
 

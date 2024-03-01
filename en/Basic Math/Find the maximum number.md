@@ -100,7 +100,7 @@ Return the value 70.
 
 ## Implementation
 
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/maths/find_max.rb)
+- [Ruby](https://github.com/CloudArmor/Ruby/blob/master/maths/find_max.rb)
 
 # Source
 

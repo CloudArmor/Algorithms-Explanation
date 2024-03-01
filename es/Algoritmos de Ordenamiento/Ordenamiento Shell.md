@@ -57,14 +57,14 @@ Brecha inicial: 4
 
 #### Enlaces de implementación de código
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/ShellSort.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Shell%20Sort.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/shell_sort.py)
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/ShellSorter.cs)
-- [Ir](https://github.com/TheAlgorithms/Go/blob/master/sort/shellsort.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/shell_sort.rb)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/shellSort.c)
-- [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/ShellSort.js)
+- [Java](https://github.com/CloudArmor/Java/blob/master/src/main/java/com/thealgorithms/sorts/ShellSort.java)
+- [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/Sorting/Shell%20Sort.cpp)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/sorts/shell_sort.py)
+- [C-Sharp](https://github.com/CloudArmor/C-Sharp/blob/master/Algorithms/Sorters/Comparison/ShellSorter.cs)
+- [Ir](https://github.com/CloudArmor/Go/blob/master/sort/shellsort.go)
+- [Ruby](https://github.com/CloudArmor/Ruby/blob/master/Sorting/shell_sort.rb)
+- [C](https://github.com/CloudArmor/C/blob/master/sorting/shellSort.c)
+- [Javascript](https://github.com/CloudArmor/JavaScript/blob/master/Sorts/ShellSort.js)
 
 #### Explicación de vídeo
 

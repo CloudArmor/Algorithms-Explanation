@@ -37,4 +37,4 @@ Le déterminant de $\begin{bmatrix}1&2&3\\4&5&6\\7&8&9\end{bmatrix}$ est $0$.
 
 ## Implémentation
 
-* [Python](https://github.com/TheAlgorithms/Python/blob/master/linear_algebra/src/lib.py)
+* [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/linear_algebra/src/lib.py)

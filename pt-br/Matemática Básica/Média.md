@@ -60,7 +60,7 @@ Retorne o valor de 22 ou `23`.
 
 ## Implementação
 
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/average_mean.py)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/maths/average_mean.py)
 
 ## URL do vídeo
 

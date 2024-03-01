@@ -110,7 +110,7 @@ largest_sum = max(5, 6) = 6
 
 ### Code Implementation Links
 
-- [Python](https://github.com/TheAlgorithms/Python/blob/252df0a149502143a14e7283424d40b785dd451c/maths/kadanes.py)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/252df0a149502143a14e7283424d40b785dd451c/maths/kadanes.py)
 
 ### Video Explanation Link
 

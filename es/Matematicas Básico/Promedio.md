@@ -60,7 +60,7 @@ Devuelva el valor de 22. <u>857142</u> o `23`.
 
 ## Implementación
 
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/average_mean.py)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/maths/average_mean.py)
 
 ## Video en YouTube
 

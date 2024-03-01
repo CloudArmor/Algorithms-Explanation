@@ -43,19 +43,19 @@ countingSort(array, size)
 
 #### Code Implementation Links
 
-- [Assembly](https://github.com/TheAlgorithms/AArch64_Assembly/blob/main/sorters/counting_sort.s)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/counting_sort.c)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/counting_sort.cpp)
-- [Dart](https://github.com/TheAlgorithms/Dart/blob/master/sort/count_sort.dart)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/countingsort.go)
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/CountingSort.java)
-- [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/CountingSort.js)
-- [Julia](https://github.com/TheAlgorithms/Julia/blob/main/src/sorts/counting_sort.jl)
-- [Matlab](https://github.com/TheAlgorithms/MATLAB-Octave/blob/master/algorithms/sorting/counting_sort.m)
-- [PHP](https://github.com/TheAlgorithms/PHP/blob/master/Sorting/CountSort.php)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/counting_sort.py)
-- [R](https://github.com/TheAlgorithms/R/blob/master/sorting_algorithms/counting_sort.r)
-- [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/counting_sort.rs)
+- [Assembly](https://github.com/CloudArmor/AArch64_Assembly/blob/main/sorters/counting_sort.s)
+- [C](https://github.com/CloudArmor/C/blob/master/sorting/counting_sort.c)
+- [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/sorting/counting_sort.cpp)
+- [Dart](https://github.com/CloudArmor/Dart/blob/master/sort/count_sort.dart)
+- [Go](https://github.com/CloudArmor/Go/blob/master/sort/countingsort.go)
+- [Java](https://github.com/CloudArmor/Java/blob/master/src/main/java/com/thealgorithms/sorts/CountingSort.java)
+- [JavaScript](https://github.com/CloudArmor/Javascript/blob/master/Sorts/CountingSort.js)
+- [Julia](https://github.com/CloudArmor/Julia/blob/main/src/sorts/counting_sort.jl)
+- [Matlab](https://github.com/CloudArmor/MATLAB-Octave/blob/master/algorithms/sorting/counting_sort.m)
+- [PHP](https://github.com/CloudArmor/PHP/blob/master/Sorting/CountSort.php)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/sorts/counting_sort.py)
+- [R](https://github.com/CloudArmor/R/blob/master/sorting_algorithms/counting_sort.r)
+- [Rust](https://github.com/CloudArmor/Rust/blob/master/src/sorting/counting_sort.rs)
 
 #### Video Explanation
 

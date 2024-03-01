@@ -88,10 +88,10 @@ E 1 A->B->E = -1 + 2
 
 #### Enlaces de implementación de código
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/graphs/BellmanFord.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Dynamic%20Programming/Bellman-Ford.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/data_structures/graph/bellman_ford.py)
-- [C](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/Bellman-Ford.c)
+- [Java](https://github.com/CloudArmor/Java/blob/master/src/main/java/com/thealgorithms/datastructures/graphs/BellmanFord.java)
+- [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/Dynamic%20Programming/Bellman-Ford.cpp)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/data_structures/graph/bellman_ford.py)
+- [C](https://github.com/CloudArmor/C/blob/master/data_structures/graphs/Bellman-Ford.c)
 
 #### Explicación de vídeo
 

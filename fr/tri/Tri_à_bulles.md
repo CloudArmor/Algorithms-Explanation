@@ -76,12 +76,12 @@ Puisqu'il n'y a pas de permutations dans les étapes précédentes, cela signifi
 
 ## Implémentations
 
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/bubble_sort.py)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/bubble_sort.c)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/bubble_sort.cpp)
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/BubbleSorter.cs)
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/BubbleSort.java)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/bubblesort.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/bubble_sort.rb)
-- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
-- [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BubbleSort.js)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/sorts/bubble_sort.py)
+- [C](https://github.com/CloudArmor/C/blob/master/sorting/bubble_sort.c)
+- [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/sorting/bubble_sort.cpp)
+- [C-Sharp](https://github.com/CloudArmor/C-Sharp/blob/master/Algorithms/Sorters/Comparison/BubbleSorter.cs)
+- [Java](https://github.com/CloudArmor/Java/blob/master/src/main/java/com/thealgorithms/sorts/BubbleSort.java)
+- [Go](https://github.com/CloudArmor/Go/blob/master/sorts/bubblesort.go)
+- [Ruby](https://github.com/CloudArmor/Ruby/blob/master/sorting/bubble_sort.rb)
+- [Scala](https://github.com/CloudArmor/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
+- [JavaScript](https://github.com/CloudArmor/Javascript/blob/master/Sorts/BubbleSort.js)

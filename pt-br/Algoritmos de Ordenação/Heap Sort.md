@@ -57,14 +57,14 @@ O procedimento heapify chama a si mesmo recursivamente para construir heap de ci
 
 #### Links de implementação de código
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/HeapSort.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/heap_sort.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/heap_sort.py)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/heapsort.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/heap_sort.rb)
-- [C-sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/HeapSorter.cs)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/heap_sort.c)
-- [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/HeapSort.js)
+- [Java](https://github.com/CloudArmor/Java/blob/master/src/main/java/com/thealgorithms/sorts/HeapSort.java)
+- [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/sorting/heap_sort.cpp)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/sorts/heap_sort.py)
+- [Go](https://github.com/CloudArmor/Go/blob/master/sort/heapsort.go)
+- [Ruby](https://github.com/CloudArmor/Ruby/blob/master/sorting/heap_sort.rb)
+- [C-sharp](https://github.com/CloudArmor/C-Sharp/blob/master/Algorithms/Sorters/Comparison/HeapSorter.cs)
+- [C](https://github.com/CloudArmor/C/blob/master/sorting/heap_sort.c)
+- [Javascript](https://github.com/CloudArmor/Javascript/blob/master/Sorts/HeapSort.js)
 
 #### Explicação em vídeo
 

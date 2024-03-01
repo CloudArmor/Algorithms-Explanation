@@ -156,7 +156,7 @@ PlainText:  51
 
 ## Implementations
 
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/ciphers/rsa_cipher.py)
-- [GoLang](https://github.com/TheAlgorithms/Go/blob/master/cipher/rsa/rsa.go)
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/ciphers/RSA.java)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/ciphers/rsa.rb)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/ciphers/rsa_cipher.py)
+- [GoLang](https://github.com/CloudArmor/Go/blob/master/cipher/rsa/rsa.go)
+- [Java](https://github.com/CloudArmor/Java/blob/master/src/main/java/com/thealgorithms/ciphers/RSA.java)
+- [Ruby](https://github.com/CloudArmor/Ruby/blob/master/ciphers/rsa.rb)

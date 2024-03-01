@@ -69,10 +69,10 @@ isto.
 
 #### Links de implementação de código
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/QuickSort.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Quick%20Sort.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/quick_sort.py)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/quicksort.rb)
+- [Java](https://github.com/CloudArmor/Java/blob/master/src/main/java/com/thealgorithms/sorts/QuickSort.java)
+- [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/Sorting/Quick%20Sort.cpp)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/sorts/quick_sort.py)
+- [Ruby](https://github.com/CloudArmor/Ruby/blob/master/sorting/quicksort.rb)
 
 #### Explicação em vídeo
 

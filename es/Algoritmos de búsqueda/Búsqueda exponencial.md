@@ -56,5 +56,5 @@ Echemos un vistazo a esta comparación con un ejemplo menos teórico. Imagine qu
 
 #### Enlaces de implementación de código
 
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/search/exponential_search.cpp)
-- [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Search/ExponentialSearch.js)
+- [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/search/exponential_search.cpp)
+- [JavaScript](https://github.com/CloudArmor/Javascript/blob/master/Search/ExponentialSearch.js)

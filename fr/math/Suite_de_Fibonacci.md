@@ -43,4 +43,4 @@ On a donc $F(6) = 8$
 
 ## Implémentation
 
-* [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/fibonacci.py)
+* [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/maths/fibonacci.py)

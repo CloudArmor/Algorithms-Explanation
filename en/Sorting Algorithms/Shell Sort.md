@@ -56,19 +56,19 @@ Initial Gap: 4
 
 #### Code Implementation Links
 
-- [Assembly](https://github.com/TheAlgorithms/AArch64_Assembly/blob/main/sorters/shell_sort.s)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/shell_sort.c)
-- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/ShellSorter.cs)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/shell_sort.cpp)
-- [Dart](https://github.com/TheAlgorithms/Dart/blob/master/sort/shell_Sort.dart)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/shellsort.go)
-- [Haskell](https://github.com/TheAlgorithms/Haskell/blob/master/src/Sorts/ShellSort.hs)
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/ShellSort.java)
-- [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/shellSort.js)
-- [Matlab](https://github.com/TheAlgorithms/MATLAB-Octave/blob/master/algorithms/sorting/shell_sort.m)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/shell_sort.py)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/shell_sort.rb)
-- [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/shell_sort.rs)
+- [Assembly](https://github.com/CloudArmor/AArch64_Assembly/blob/main/sorters/shell_sort.s)
+- [C](https://github.com/CloudArmor/C/blob/master/sorting/shell_sort.c)
+- [C#](https://github.com/CloudArmor/C-Sharp/blob/master/Algorithms/Sorters/Comparison/ShellSorter.cs)
+- [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/sorting/shell_sort.cpp)
+- [Dart](https://github.com/CloudArmor/Dart/blob/master/sort/shell_Sort.dart)
+- [Go](https://github.com/CloudArmor/Go/blob/master/sort/shellsort.go)
+- [Haskell](https://github.com/CloudArmor/Haskell/blob/master/src/Sorts/ShellSort.hs)
+- [Java](https://github.com/CloudArmor/Java/blob/master/src/main/java/com/thealgorithms/sorts/ShellSort.java)
+- [JavaScript](https://github.com/CloudArmor/Javascript/blob/master/Sorts/shellSort.js)
+- [Matlab](https://github.com/CloudArmor/MATLAB-Octave/blob/master/algorithms/sorting/shell_sort.m)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/sorts/shell_sort.py)
+- [Ruby](https://github.com/CloudArmor/Ruby/blob/master/Sorting/shell_sort.rb)
+- [Rust](https://github.com/CloudArmor/Rust/blob/master/src/sorting/shell_sort.rs)
 
 
 #### Video Explanation

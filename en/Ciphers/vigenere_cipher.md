@@ -64,10 +64,10 @@ Decryption is similar to encryption (except for the subtraction operation).
 
 ## Implementations
 
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/ciphers/vigenere_cipher.cpp)
-- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Encoders/VigenereEncoder.cs)
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/ciphers/Vigenere.java)
-- [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Ciphers/VigenereCipher.js)
-- [Julia](https://github.com/TheAlgorithms/Julia/blob/main/src/cipher/vigenere.jl)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/ciphers/vigenere_cipher.py)
-- [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/vigenere.rs)
+- [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/ciphers/vigenere_cipher.cpp)
+- [C#](https://github.com/CloudArmor/C-Sharp/blob/master/Algorithms/Encoders/VigenereEncoder.cs)
+- [Java](https://github.com/CloudArmor/Java/blob/master/src/main/java/com/thealgorithms/ciphers/Vigenere.java)
+- [JavaScript](https://github.com/CloudArmor/JavaScript/blob/master/Ciphers/VigenereCipher.js)
+- [Julia](https://github.com/CloudArmor/Julia/blob/main/src/cipher/vigenere.jl)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/ciphers/vigenere_cipher.py)
+- [Rust](https://github.com/CloudArmor/Rust/blob/master/src/ciphers/vigenere.rs)

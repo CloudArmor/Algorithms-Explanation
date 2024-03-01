@@ -67,7 +67,7 @@ Now we get the value 25 in the variable "b", which is the second highest value i
 
 #### Code Implementation Links
 
-[JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/FindSecondLargestElement.js)
+[JavaScript](https://github.com/CloudArmor/JavaScript/blob/master/Sorts/FindSecondLargestElement.js)
 
 #### Video Explanation
 

@@ -46,7 +46,7 @@ Tri par insertion dans le :
 
 ## Implémentation
 
-* [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/insertion_sort.py)
+* [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/sorts/insertion_sort.py)
 
 ## Pour aller plus loin
 

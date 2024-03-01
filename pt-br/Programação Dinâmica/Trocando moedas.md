@@ -59,7 +59,7 @@ Portanto, a resposta final é **8**. 8 maneiras de fazer troco de 7 centavos usa
 
 #### Link de implementação de código
 
-[Python](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/coin_change.py)
+[Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/dynamic_programming/coin_change.py)
 
 #### Explicação em vídeo
 

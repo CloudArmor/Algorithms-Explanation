@@ -69,8 +69,8 @@ return tortoise = 4
 
 ## Code Implementation Links
 
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/search/floyd_cycle_detection_algo.cpp)
-- [C](https://github.com/TheAlgorithms/C/blob/master/searching/floyd_cycle_detection_algorithm.c)
+- [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/search/floyd_cycle_detection_algo.cpp)
+- [C](https://github.com/CloudArmor/C/blob/master/searching/floyd_cycle_detection_algorithm.c)
 #### Video Explanation
 
 - [YouTube video explaining the Floyd Cycle Detection algorithm](https://www.youtube.com/watch?v=B6smdk7pZ14)

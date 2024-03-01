@@ -81,15 +81,15 @@ Como não há trocas nas etapas acima, isso significa que a matriz está classif
 
 #### Links de implementação de código
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/BubbleSort.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/bubble_sort.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/bubble_sort.py)
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/BubbleSorter.cs)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/bubblesort.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/bubble_sort.rb)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/bubble_sort.c)
-- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
-- [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/BubbleSort.js)
+- [Java](https://github.com/CloudArmor/Java/blob/master/src/main/java/com/thealgorithms/sorts/BubbleSort.java)
+- [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/sorting/bubble_sort.cpp)
+- [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/sorts/bubble_sort.py)
+- [C-Sharp](https://github.com/CloudArmor/C-Sharp/blob/master/Algorithms/Sorters/Comparison/BubbleSorter.cs)
+- [Go](https://github.com/CloudArmor/Go/blob/master/sort/bubblesort.go)
+- [Ruby](https://github.com/CloudArmor/Ruby/blob/master/sorting/bubble_sort.rb)
+- [C](https://github.com/CloudArmor/C/blob/master/sorting/bubble_sort.c)
+- [Scala](https://github.com/CloudArmor/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
+- [Javascript](https://github.com/CloudArmor/JavaScript/blob/master/Sorts/BubbleSort.js)
 
 #### Explicação em vídeo
 

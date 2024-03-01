@@ -41,6 +41,6 @@ Digamos que estamos enviando un mensaje secreto a un amigo.
 
 ## Implementación
 
-* [Python](https://github.com/TheAlgorithms/Python/blob/master/ciphers/caesar_cipher.py)
-* [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/ciphers/caesar_cipher.cpp)
-* [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/caesar.rs)
+* [Python](https://github.com/CloudArmor/PyAlgorithms/blob/master/ciphers/caesar_cipher.py)
+* [C++](https://github.com/CloudArmor/C-Plus-Plus/blob/master/ciphers/caesar_cipher.cpp)
+* [Rust](https://github.com/CloudArmor/Rust/blob/master/src/ciphers/caesar.rs)
